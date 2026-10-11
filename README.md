@@ -7,7 +7,7 @@ Python: Usei a biblioteca Pandas para limpar a planilha de discos (tirar formata
 
 SQL (SQLite): Importei os dados limpos e fiz consultas para somar o valor do estoque por artista.
 
-Power BI: Criei gráficos simples para ver a média de preços e a distribuição das condições dos discos.
+Power BI: Criei gráficos simples para ver a soma dos preços dos vinis para cada artista, seu ticket médio e contagem de título por artista
 
 Tecnologias:
 Python 
