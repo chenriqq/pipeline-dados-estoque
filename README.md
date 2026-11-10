@@ -3,6 +3,7 @@ Projeto de Engenharia de Dados e BI para análise de inventário (Python, SQLite
 Projeto desenvolvido como parte dos meus estudos em Ciência da Computação para visualizar o estoque da minha loja de discos de vinil, e praticar manipulação de dados, banco de dados e visualização.
 
 O que foi feito?
+
 Python: Usei a biblioteca Pandas para limpar a planilha de discos (tirar formatações de moeda e tratar erros).
 
 SQL (SQLite): Importei os dados limpos e fiz consultas para somar o valor do estoque por artista.
